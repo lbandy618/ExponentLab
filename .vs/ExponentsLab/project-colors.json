@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f85ea8e-04a6-43f0-8f05-3b6dfed20583": {
+      "ProjectGuid": "1f85ea8e-04a6-43f0-8f05-3b6dfed20583",
+      "DisplayName": "ExponentsLab",
+      "ColorIndex": 0
+    },
+    "ce81ddf6-e37f-4e40-9100-d2805b2db748": {
+      "ProjectGuid": "ce81ddf6-e37f-4e40-9100-d2805b2db748",
+      "DisplayName": "ConditionLecture",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
